@@ -7,6 +7,9 @@ while index < len(fruit):
 
 print 'The while loop is done!'
 
+# similar while loop that executes and prints characters of the string in reverse
+# exercise 6.1
+
 
 fruit = 'fruit'
 index = 0
